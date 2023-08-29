@@ -1,4 +1,4 @@
-# Project 4 gios-spr-23-pr4
+# Weak Distributed File System
 
 This is **HO NGOK CHAO**'s Readme file.
 
